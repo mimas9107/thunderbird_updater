@@ -6,4 +6,4 @@
 # backup_thunderbird_rule
 1. 備份本機端所有郵件篩選器規則檔, 並壓縮.
 2. 備份路徑為 $HOME/back_thunderbird_rules/
-3. 主要程式為 backup_thunderbird_rule.py
+3. 主要程式為 backup_thunderbird_rule.py  喵喵喵
