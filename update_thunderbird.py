@@ -26,7 +26,8 @@ if len(download_links) == 1:
         print(i)
     # ret = os.popen('wget ' + i)
     # print(ret)
-    target_link = i[i.find('thunderbird-'):].replace('SSL&os=','').replace('&lang=','-')+'.tar.bz2'
+    # target_link = i[i.find('thunderbird-'):].replace('SSL&os=','').replace('&lang=','-')+'.tar.bz2'
+    target_link = i[i.find('thunderbird-'):].replace('SSL&os=','').replace('&lang=','-')+'.tar.xz'
     print("target " + target_link)
     wget.download(i, target_link)
 
