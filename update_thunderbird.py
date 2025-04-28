@@ -36,7 +36,7 @@ else:
 
 if os.path.exists(target_link):
     
-    os.system("sudo tar jxvf {}".format(target_link))
+    os.system("sudo tar Jxvf {}".format(target_link))
 
     if os.path.exists("thunderbird"):
         target_dir = input("Please input the directory where the folder move >> [default : /opt/ ]")
