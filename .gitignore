@@ -1,0 +1,28 @@
+# Download cache
+download_cache/
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python/
+
+# Test installation
+test_tb/
+/tmp/test_tb/
+
+# Downloaded archives
+thunderbird-*.tar.xz
+thunderbird-*.tar.bz2
+thunderbird-*.tar.gz
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
