@@ -5,7 +5,7 @@ created_date:     "2026/05/12"
 modified_date:    "2026/05/13"
 project_version:  "1.2.0"
 document_version: "1.2.0"
-agent_sign:       ['human/justin']
+agent_sign:       ['human/justin', 'gemini cli/2.0.0']
 ---
 
 # Changelog
